@@ -1,7 +1,11 @@
 # LeetCode
 
-python3      
+慢慢刷
 
-leetcode 慢慢刷    
+Python3（Pycharm）
+
+Java14（IDEA, Maven）
+
+
 
 
