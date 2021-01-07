@@ -2,9 +2,13 @@
 
 慢慢刷
 
-Python3（Pycharm）
+主要笔记放在LeetCode Notes文件夹中
 
-Java14（IDEA, Maven）
+Java和Python文件夹中存在部分题目代码
+
+- Python3（Pycharm）
+
+- Java14（IDEA, Maven）
 
 
 
